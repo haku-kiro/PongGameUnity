@@ -4,8 +4,8 @@ A pong game made with unity 5.6
 
 ## Build:
 
--clone the repo to your pc
--open your unity and navigate to the directory
+- clone the repo to your pc
+- open your unity and navigate to the directory
 - Build the game
 
 ## Notes:
